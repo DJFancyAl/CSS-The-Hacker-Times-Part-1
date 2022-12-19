@@ -3,6 +3,7 @@
 body {
     font-family: Source Sans Pro;
     background-color: #eee;
+    padding: 20px;
 }
 
 .newspaper-container {
@@ -84,11 +85,6 @@ p {
 
 .mini-articles img {
     max-width: 100%;
-}
-
-.mini-articles p {
-    max-height: 75px;
-    overflow: auto;
 }
 
 footer {
